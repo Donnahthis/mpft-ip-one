@@ -1,0 +1,11 @@
+#landing-container-fluid {
+  background-image: url("../img/clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container#head {
+  opacity: 2;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
