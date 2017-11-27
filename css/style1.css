@@ -9,3 +9,28 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.testbox3 {
+        width: 760px;
+        padding: 10px;
+        border: 2px solid gray;
+        height: 600PX;
+        margin-right: 4px;
+        color: black;
+        box-shadow: 10px 10px 10px #000000;
+        text-align: left;
+        vertical-align: middle;
+        float: left;
+/*}
+
+
+#sidebar	{
+display: block;
+width: 100%;
+color: #aaab9c;
+padding: 5px 0;
+border-width: 1px;
+border-color: #ffe #aaab9c #ccc #ffe;
+border-style: solid;
+text-decoration: none;
+}
