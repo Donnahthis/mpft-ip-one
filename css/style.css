@@ -2,8 +2,17 @@
   background-image: url("../img/beautiful_ocean_maldives_516046.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
 }
 
+#landing-page-container-fluid1 {
+  background-image: url("../img/images.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: auto;
+
+}
 .container#heading {
   opacity: 1;
   background-repeat: no-repeat;
@@ -158,10 +167,13 @@ h3 {
     height: 522px;
     float: left;
 }
-#landing-container-fluid {
-  background-image: url("../img/clouds.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+#landing-page-container-fluid {
+    background-image: url(../img/beautiful_ocean_maldives_516046.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-right: -232px;
+    margin-top: 237px;
 }
 
 .container#head {
@@ -198,17 +210,7 @@ h3 {
     margin-left: 91px;
     font-size: 50px;
 }
-body {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 0px;
-    line-height: 42.428571;
-    color: #333;
-    background-color: #31708f;
-    text-align: center;
-    background-image: url("../img/images.jpg");
-		background-repeat: no-repeat;
-		background-size: cover;
-}
+
 .content-box {
 	background-image: url("../img/images.jpg") no-repeat bottom right;
 	margin: 0;
@@ -263,8 +265,8 @@ body {
 		}
 
 		#gly {
-	    width: 1252px;
-	    padding: 292px;
+	    width: 685px;
+	    padding: 98px;
 	    border: 1px solid gray;
 	    height: 300PX;
 	    margin-right: 4px;
@@ -276,6 +278,7 @@ body {
 	    vertical-align: middle;
 	    float: left;
 	    background-color: #868e96;
+      font-size: 11px;
 	}
 	.content-box{
 		height: 50px;
@@ -320,12 +323,16 @@ body {
 			margin: 0;
 			color: cadetblue;
 			text-align: justify;
+      margin-bottom: 20px;
 		}
 
 		.container#men {
     opacity: 2;
-    margin-left: -681px;
-    margin-top: 166px;
+    margin-left: -433px;
+    margin-top: 375px;
+    margin-bottom: 137px;
+    min-width: 2px;
+    margin-right: 200px
    }
 
 
