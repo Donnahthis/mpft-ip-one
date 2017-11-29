@@ -9,7 +9,7 @@ body {
 		background-repeat: no-repeat;
 		background-size: cover;
 }
-content-box {
+.content-box {
 	background-image: url("../img/images.jpg") no-repeat bottom right;
 	margin: 0;
 	padding: 0;
@@ -77,6 +77,9 @@ content-box {
 	    float: left;
 	    background-color: #868e96;
 	}
+	.content-box{
+		height: 50px;
+	}
 
 	footer {
 		text-align:center;
@@ -89,24 +92,23 @@ content-box {
 		    width: 116px;
 		    height: 101px;
 		    float: right;
-		}
+			}
 		h6 {
-			width: 760px;
-			height: 100px;
-			margin-bottom: 104px;
-      margin-top: -90px;
-			padding: 0;
-			font-size: 25px;
-			font-style: italic;
-			text-align: center;
-			text color: cadetblue;
+		    width: 551px;
+		    height: 19px;
+		    margin-bottom: 116px;
+		    margin-top: -100px;
+		    padding: 10px;
+		    font-size: 30px;
+		    font-style: normal;
+		    text-align: left;
 		}
+
 		p {
 		 text-transform: capitalize;
 		 text-decoration-style: dotted;
 		 text-decoration-color: skyblue;
 		 text-underline-position: inherit;
-		 object-fit: fill;
 		 touch-action: manipulation;
 		}
 
@@ -119,3 +121,9 @@ content-box {
 			color: cadetblue;
 			text-align: justify;
 		}
+
+		.container#men {
+    opacity: 2;
+    margin-left: -681px;
+    margin-top: 166px;
+   }

@@ -23,10 +23,6 @@
         float: left;
 }
 
-.tg-thumbnail {
-    position: relative;
-    overflow: hidden;
-}
 .navbar{
     position: relative;
     min-height: 115px;
