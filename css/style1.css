@@ -27,3 +27,18 @@
     position: relative;
     overflow: hidden;
 }
+.navbar{
+    position: relative;
+    min-height: 115px;
+    margin-bottom: 43px;
+    border: 25px solid #8a6d3b;
+    text-align: center;
+    text-shadow: snow;
+    touch-action: pan-right;
+    text-decoration-line: blink;
+    text-orientation: sideways;
+    text-decoration-color: cornflowerblue;
+    margin-right: 61px;
+    margin-left: 91px;
+    font-size: 50px;
+}

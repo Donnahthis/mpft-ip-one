@@ -39,7 +39,7 @@ content-box {
 	    position: relative;
 	    min-height: 115px;
 	    margin-bottom: 43px;
-	    border: 45px solid #8a6d3b;
+	    border: 25px solid #8a6d3b;
 	    text-align: center;
 	    text-shadow: snow;
 	    touch-action: pan-right;
