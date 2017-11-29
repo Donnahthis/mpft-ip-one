@@ -3,6 +3,8 @@
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
+  height: auto;
+  margin-bottom: auto;
 }
 
 #landing-page-container-fluid1 {
@@ -11,6 +13,7 @@
   background-size: cover;
   text-align: center;
   height: auto;
+
 
 }
 .container#heading {
@@ -22,13 +25,14 @@
   width: 660px;
       padding: 10px;
       border: 1px solid gray;
-      height: 500PX;
+      height: 450PX;
       margin-right: 4px;
       color: #fff;
       box-shadow: 10px 10px 10px #000000;
       text-align: center;
       vertical-align: middle;
       float: left;
+      /*margin-top: -40px;*/
 }
 
 img {
@@ -100,6 +104,7 @@ h3 {
   font-weight: bold;
   font-size: 0.9em;
   text-decoration: none;
+  text-align: center;
   }
   .sidebar {
   padding: 5px 0 6px 30px;
@@ -107,9 +112,8 @@ h3 {
   border-top: 77px solid #aaab9c;
   border-right: 7px solid #aaab9c;
   font-size: 0.9em;
-  text-align: right;
   color: #cadetblue;
-  text-align: left;
+  text-align: center;
   }
   #sidebar	{
   display: block;
@@ -120,6 +124,7 @@ h3 {
   border-color: #ffe #aaab9c #ccc #ffe;
   border-style: solid;
   text-decoration: none;
+  text-align: center;
   }
 
   h4	{
@@ -137,7 +142,7 @@ h3 {
         height: 92px;
         margin: 0;
         color: cadetblue;
-        text-align: right;
+        text-align: center;
         vertical-align: right;
         text-shadow: black;
   }
@@ -166,14 +171,6 @@ h3 {
     width: 440px;
     height: 522px;
     float: left;
-}
-#landing-page-container-fluid {
-    background-image: url(../img/beautiful_ocean_maldives_516046.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    margin-right: -232px;
-    margin-top: 237px;
 }
 
 .container#head {
@@ -335,7 +332,16 @@ h3 {
     margin-right: 200px
    }
 
+   .row {
+       margin-right: 167px;
+       margin-left: -15px;
+       float: right;
+       margin-top: 15px;
+       margin-bottom: 21px;
+   }
 
-  /*p {
-  	line-height: 180%;
-  	}*/
+   #write{
+    float: inherit;
+    width: -40px;
+    margin-left: 60px;
+   }
