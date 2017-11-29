@@ -22,7 +22,13 @@
   text-align: center;
   height: auto;
 
-
+}
+#landing-now {
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: auto;
+  background-color: #45444f;
 }
 .container#heading {
   opacity: 1;
@@ -240,16 +246,24 @@ h3 {
 	margin: 0;
 	padding: 0;
 	text-align: center;
+  height: 127px;
 	}
-  #summary {
-  	background-image: url("../img/clouds.jpg") no-repeat bottom right;
-  	margin-top: auto;
+  #here {
+  	margin: 0;
+  	padding: 0;
+  	text-align: left;
+    height: 127px;
+    }
+    #summary {
+    background-image: url("../img/clouds.jpg") no-repeat bottom right;
+    margin-top: 142px;
     margin-bottom: auto;
     margin-right: auto;
     margin-left: auto;
-  	padding: 0;
-  	text-align: left;
-  	}
+    padding: 0;
+    text-align: left;
+    font-size: 28px;
+}
 	container-fluid#navbarme {
 	line-height: 2.5ex;
 	display: block;
