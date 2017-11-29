@@ -90,19 +90,14 @@ content-box {
 		    height: 101px;
 		    float: right;
 		}
-
-		#lastcoment{
-		    position: relative;
-		    min-height: 115px;
-		    margin-bottom: 43px;
-		    border: 25px solid #8a6d3b;
-		    text-align: center;
-		    text-shadow: snow;
-		    touch-action: pan-right;
-		    text-decoration-line: blink;
-		    text-orientation: sideways;
-		    text-decoration-color: cornflowerblue;
-		    margin-right: 61px;
-		    margin-left: 91px;
-		    font-size: 50px;
+		h6 {
+			width: 760px;
+			height: 100px;
+			margin-bottom: 104px;
+      margin-top: -90px; 
+			padding: 0;
+			font-size: 25px;
+			font-style: italic;
+			text-align: center;
+			text color: cadetblue;
 		}
