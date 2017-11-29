@@ -1,15 +1,29 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 42.428571;
+    color: #333;
+    background-color: #31708f;
+    text-align: center;
+    background-image: url("../img/images.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+}
 content-box {
 	background-image: url("../img/images.jpg") no-repeat bottom right;
 	margin: 0;
 	padding: 0;
+	text-align: center;
 	}
 
-	#navbarme {
+	container-fluid#navbarme {
 	line-height: 2.5ex;
 	display: block;
 	padding-top: 5px;
 	margin-bottom: 5px;
 	list-style-type: none;
+	margin: 60px;
+	text-align: center;
 	}
 
 	* {
@@ -19,4 +33,20 @@ content-box {
 	    font-smoothing: antialiased;
 	    text-rendering: optimizeLegibility;
 	    outline: none;
+	}
+
+	.navbar{
+	    position: relative;
+	    min-height: 115px;
+	    margin-bottom: 43px;
+	    border: 45px solid #8a6d3b;
+	    text-align: center;
+	    text-shadow: snow;
+	    touch-action: pan-right;
+	    text-decoration-line: blink;
+	    text-orientation: sideways;
+	    text-decoration-color: cornflowerblue;
+	    margin-right: 61px;
+	    margin-left: 91px;
+			font-size: 50px;
 	}
