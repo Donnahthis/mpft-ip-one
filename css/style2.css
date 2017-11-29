@@ -1,0 +1,22 @@
+content-box {
+	background-image: url("../img/images.jpg") no-repeat bottom right;
+	margin: 0;
+	padding: 0;
+	}
+
+	#navbarme {
+	line-height: 2.5ex;
+	display: block;
+	padding-top: 5px;
+	margin-bottom: 5px;
+	list-style-type: none;
+	}
+
+	* {
+	    box-sizing: border-box;
+	    -moz-osx-font-smoothing: grayscale;
+	    -webkit-font-smoothing: antialiased;
+	    font-smoothing: antialiased;
+	    text-rendering: optimizeLegibility;
+	    outline: none;
+	}

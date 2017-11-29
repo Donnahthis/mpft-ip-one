@@ -23,14 +23,7 @@
         float: left;
 }
 
-
-/*#sidebar	{
-display: block;
-width: 100%;
-color: #aaab9c;
-padding: 5px 0;
-border-width: 1px;
-border-color: #ffe #aaab9c #ccc #ffe;
-border-style: solid;
-text-decoration: none;
-}*/
+.tg-thumbnail {
+    position: relative;
+    overflow: hidden;
+}
