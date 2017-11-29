@@ -56,17 +56,6 @@ h1 {
      margin-left: 2px;
  }
 
- #h7 p {
-  margin: -16px 0 6px;
-  text-transform: capitalize;
-  text-decoration-style: dotted;
-  text-decoration-color: skyblue;
-  text-underline-position: inherit;
-  quotes: none;
-  object-fit: fill;
-  touch-action: manipulation;
-}
-
 h2 {
     font-size: 40px;
     text-align: center;
@@ -145,14 +134,12 @@ h3 {
   }
   .testbox4 {
     width: 64px;
-        padding: 10px;
-        border: 2px solid gray;
-        height: 92px;
-        margin: 0;
-        color: cadetblue;
-        text-align: right;
-        vertical-align: right;
-        text-shadow: black;
+    padding: 10px;
+    border: 2px solid gray;
+    height: 92px;
+    margin: 0;
+    color: cadetblue;
+    text-align: justify;
   }
   .testbox5 {
     width: 64px;
@@ -165,3 +152,7 @@ h3 {
         vertical-align: right;
         text-shadow: black;
   }
+
+  p {
+  	line-height: 180%;
+  	}
