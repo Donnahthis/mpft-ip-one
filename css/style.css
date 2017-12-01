@@ -393,3 +393,29 @@ h3 {
     width: -40px;
     margin-left: 60px;
    }
+   #gift-showing {
+           display: none;
+ }
+p {
+ cursor: pointer;
+ color: #0088cc;
+}
+
+p:hover {
+  text-decoration: none;
+}
+.gift-showing {
+        display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+text-decoration: underline;
+}
+.gift-showing {
+  display: none;
+}
