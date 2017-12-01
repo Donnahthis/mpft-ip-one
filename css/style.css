@@ -96,6 +96,7 @@ h2 {
     font-family: monospace;
     -webkit-appearance: media-sliderthumb;
     font-weight: bold;
+
 }
 div#jt {
 	position: absolute;
@@ -333,7 +334,7 @@ h3 {
 	}
 	.content-box{
 		height: 50px;
-	
+
 		}
 		img {
 		    width: 116px;
