@@ -394,3 +394,18 @@ h3 {
     width: -40px;
     margin-left: 60px;
    }
+   .sidenav {
+    height: auto;
+    width: 327px;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #373737;
+    overflow-x: hidden;
+    transition: 17.5s;
+    padding-top: -260px;
+    text-align: center;
+    padding-top: -260px;
+    font-size: 60px;
+}
